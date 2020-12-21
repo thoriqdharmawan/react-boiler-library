@@ -1,12 +1,10 @@
 import React from 'react'
-import { Text, Button } from 'react-ui'
+import { Text } from 'react-ui'
 
 const App = () => {
     return (
         <React.Fragment>
-            <Text>Hi Text Component</Text>
-            <Button>Click me</Button>
-            <Button >Click me 2</Button>
+            <Text>Hello World</Text>
         </React.Fragment>
     )
 }
