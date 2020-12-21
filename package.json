@@ -1,5 +1,5 @@
 {
-  "name": "nepalcodetv-react-ui",
+  "name": "react-boilter-library",
   "version": "1.0.0",
   "description": "Modern React Ui Component",
   "keywords": [
@@ -78,6 +78,11 @@
     "styled-components": "^5.1.1"
   },
   "peerDependencies": {
+    "@date-io/date-fns": "^1.3.13",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/pickers": "^3.2.10",
+    "date-fns": "^2.16.1",
     "react": "^16.13.1",
     "prop-types": "^15.7.2",
     "styled-components": "^5.1.1"
@@ -85,8 +90,11 @@
   "files": [
     "dist"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/suprim12/react-ui"
+  "dependencies": {
+    "@date-io/date-fns": "^1.3.13",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/pickers": "^3.2.10",
+    "date-fns": "^2.16.1"
   }
 }

@@ -10,6 +10,8 @@
     "eject": "node ../../node_modules/react-scripts/bin/react-scripts.js eject"
   },
   "dependencies": {
+    "@date-io/date-fns": "^1.3.13",
+    "date-fns": "^2.16.1",
     "react-ui": "file:../..",
     "react": "file:../../node_modules/react",
     "react-dom": "file:../../node_modules/react-dom",
